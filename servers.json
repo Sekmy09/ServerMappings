@@ -1405,5 +1405,12 @@
         "addresses": [
             "ymzc.pro"
         ]
+    },
+    {
+        "id": "kolymc",
+        "name": "KolyMC Network",
+        "addresses": [
+            "kolymc.net"
+        ]
     }
 ]
